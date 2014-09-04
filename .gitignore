@@ -1,4 +1,5 @@
 *.xxx
 target/
 OhtuVarasto/target/
+.DS_Store
 
