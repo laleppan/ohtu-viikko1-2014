@@ -1,0 +1,5 @@
+*.xxx
+target/
+Ohtu-NhlStatistics1/target/
+.DS_Store
+
