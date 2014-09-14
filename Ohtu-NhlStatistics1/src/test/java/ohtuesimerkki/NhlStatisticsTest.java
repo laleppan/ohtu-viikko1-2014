@@ -112,6 +112,7 @@ public class NhlStatisticsTest {
         for (int counter = 0; counter < players.size(); counter++) {
             assertEquals(expected.get(counter), players.get(counter).getName());
         }
+        
     }
 
 }
